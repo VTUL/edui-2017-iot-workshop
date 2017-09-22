@@ -1,0 +1,21 @@
+{
+  "name": "edui2017-iot-workshop",
+  "version": "1.0.0",
+  "description": "Workshop code for the IoT Space Assessment workshop at edUi 2017",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "iot",
+    "edui",
+    "johnny-five"
+  ],
+  "author": "Dr. Jonathan Bradley",
+  "license": "MIT",
+  "dependencies": {
+    "bleacon": "^0.5.1",
+    "chip-io": "^2.1.1",
+    "johnny-five": "^0.11.6"
+  }
+}
